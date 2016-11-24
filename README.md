@@ -1,2 +1,5 @@
-# angular_todolist
-angular的todolist
+# angulaJS项目
+## Todo list
+==================
+# 项目特色
+
